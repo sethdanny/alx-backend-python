@@ -15,4 +15,3 @@ This repository contains the code for the ALX Backend Python project. The projec
 
    ```bash
    git clone https://github.com/sethdanny/alx-backend-python.git
-
